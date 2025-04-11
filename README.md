@@ -1,7 +1,7 @@
 # stock-price-predictor
 📈 Stock Price Predictor (Tesla) using Machine Learning
 
-A simple machine learning project to predict Tesla (TSLA) stock prices using historical data and Linear Regression in Python.
+A simple machine learning project to predict Tesla (TSLA) stock prices using historical data and Logistic Regression , svc, XGB in Python.
 
 🔍 Overview
 
